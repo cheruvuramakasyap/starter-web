@@ -10,6 +10,8 @@ also added newlines
 
 added new lines
 
+added example for stash
+
 ##New
 
 new sections implemented
